@@ -2,23 +2,32 @@
 
 **Sa7ti** is a full-stack AI-powered mobile healthcare application built with React Native (Expo), offering real-time health tracking, disease prediction, smart assistant features, and personalized wellness planning. It integrates a modern mobile user experience with robust backend services and AI-driven insights.
 
-![10](https://github.com/user-attachments/assets/7dfe85d8-fccb-44f7-8cb8-a20a8d09f0b1)
-![9](https://github.com/user-attachments/assets/563be971-7df9-446e-9ea1-e40eee85babe)
-![8](https://github.com/user-attachments/assets/deb20713-586f-49b4-a163-28c9125cee6b)
-![7](https://github.com/user-attachments/assets/a669d245-2379-41c2-ae78-bf737dc425f7)
-![6](https://github.com/user-attachments/assets/79392383-8f5f-4510-b715-cd0f543dde18)
-![5](https://github.com/user-attachments/assets/c30b7303-2a54-4238-a272-5d5ad11dcf7a)
-![4](https://github.com/user-attachments/assets/73d98045-a9ef-46a9-adb1-2813f9c3cb68)
-![3](https://github.com/user-attachments/assets/2dd9c65a-3ce2-46bd-be4b-bcc31532c41b)
-![2008c5e3-3f77-4168-aeb6-98500af4dbc7](https://github.com/user-attachments/assets/d0f5b6dd-a30f-4b55-b35c-ac46bdd9adec)
-![f8d2085f-696d-4b2e-b9fb-25808aefd773](https://github.com/user-attachments/assets/d989d4f1-7220-4cf5-a802-cd2ba3c73faf)
-![12](https://github.com/user-attachments/assets/3e992be3-4f6f-44cc-b5ba-66a11076449c)
-![11](https://github.com/user-attachments/assets/82af97b9-71c7-479c-85aa-4920768cec73)
+## 📲 Demo Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2fe56577-9f7e-4894-86fa-d24a3f3ea236" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f76183fd-f205-454c-835f-b59f5c3513f8" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b8393a65-8910-4e6b-8467-ee01580935d4" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ecd9326-28b0-4b8d-ac8f-ac51bf628b28" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6e35fdd7-8281-49e3-9b26-76f723147007" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9bfb711e-fbd8-4464-b451-8112d107ac20" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35369076-1c97-4d96-a970-9d179006f963" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4749e04b-91ad-4a4d-82fa-ab19c2a5ac94" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f753da63-b38e-42c0-ae51-e55962703cb8" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ff8c15c-60e4-4dd4-a385-447fae66a60b" width="200"/>
+  <img src="https://github.com/user-attachments/assets/30389a6b-6c31-4e86-a8c2-2f29ff9d9a5a" width="200"/>
+</p>
 
 
-
-
----
 
 ## 📚 Table of Contents
 
@@ -161,5 +170,5 @@ Add screenshots of:
 
 ## 🧑‍💻 Author
 
-Developed with ❤️ by **Mouhamed Khemiri**  
-[LinkedIn](https://www.linkedin.com/in/your-link) • [GitHub](https://github.com/your-username)
+Developed with ❤️ by **Ala Missaoui**  
+https://www.linkedin.com/in/ala-missaoui-016a5b25a/
